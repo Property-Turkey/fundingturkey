@@ -1,0 +1,1017 @@
+{
+  "ftp://fundingturkey@fundingturkey.com": {
+    "public_html": {
+      ".htaccess": {
+        "type": "-",
+        "size": 3300,
+        "lmtime": 1685525142871,
+        "modified": false
+      },
+      ".htaccess-redirect": {
+        "type": "-",
+        "size": 288,
+        "lmtime": 0,
+        "modified": false
+      },
+      ".well-known": {},
+      "Elements": {
+        "footer.php": {
+          "type": "-",
+          "size": 1920,
+          "lmtime": 1686739937381,
+          "modified": false
+        },
+        "mmenu.php": {
+          "type": "-",
+          "size": 2064,
+          "lmtime": 1682341645307,
+          "modified": false
+        }
+      },
+      "Pages": {
+        "aboutus.php": {
+          "type": "-",
+          "size": 7102,
+          "lmtime": 1681125221235,
+          "modified": false
+        },
+        "contactus.php": {
+          "type": "-",
+          "size": 962,
+          "lmtime": 1679907244030,
+          "modified": false
+        },
+        "faq.php": {
+          "type": "-",
+          "size": 11550,
+          "lmtime": 1681133993130,
+          "modified": false
+        },
+        "funds.php": {
+          "type": "-",
+          "size": 11019,
+          "lmtime": 1687438165417,
+          "modified": false
+        },
+        "home.php": {
+          "type": "-",
+          "size": 4255,
+          "lmtime": 1682341658360,
+          "modified": false
+        },
+        "news.php": {
+          "type": "-",
+          "size": 1290,
+          "lmtime": 1686666961098,
+          "modified": false
+        }
+      },
+      "cgi-bin": {},
+      "configs.php": {
+        "type": "-",
+        "size": 4722,
+        "lmtime": 1688378862355,
+        "modified": false
+      },
+      "css": {
+        "bootstrap.min.css": {
+          "type": "-",
+          "size": 144877,
+          "lmtime": 0,
+          "modified": false
+        },
+        "style.css": {
+          "type": "-",
+          "size": 18432,
+          "lmtime": 1685024845778,
+          "modified": false
+        }
+      },
+      "error_log": {
+        "type": "-",
+        "size": 331768,
+        "lmtime": 0,
+        "modified": true
+      },
+      "file": {
+        "Onaylı_Yetki_Belgesi_FT_License.pdf": {
+          "type": "-",
+          "size": 55934,
+          "lmtime": 1680872041000,
+          "modified": false
+        }
+      },
+      "font": {},
+      "form_mdl.php": {
+        "type": "-",
+        "size": 1949,
+        "lmtime": 1682341640891,
+        "modified": false
+      },
+      "img": {
+        "BG_Concrete_texture.webp": {
+          "type": "-",
+          "size": 1002,
+          "lmtime": 1677569542000,
+          "modified": false
+        },
+        "Download_Icon.svg": {
+          "type": "-",
+          "size": 820,
+          "lmtime": 1680871786000,
+          "modified": false
+        },
+        "FAQ_Feat_REIF-VCFDifferences.webp": {
+          "type": "-",
+          "size": 139256,
+          "lmtime": 1677569934000,
+          "modified": false
+        },
+        "FAQ_Feat_Tax.webp": {
+          "type": "-",
+          "size": 33260,
+          "lmtime": 1677569936000,
+          "modified": false
+        },
+        "FAQ_Feat_WhatisREIF.webp": {
+          "type": "-",
+          "size": 17692,
+          "lmtime": 1677569936000,
+          "modified": false
+        },
+        "FAQ_Feat_WhatisVCIF.webp": {
+          "type": "-",
+          "size": 31758,
+          "lmtime": 1677569936000,
+          "modified": false
+        },
+        "FAQ_Feat_WhoCanCreate.webp": {
+          "type": "-",
+          "size": 50426,
+          "lmtime": 1677569936000,
+          "modified": false
+        },
+        "FAQ_Image_1.webp": {
+          "type": "-",
+          "size": 8332,
+          "lmtime": 1677579780000,
+          "modified": false
+        },
+        "FAQ_Image_2.webp": {
+          "type": "-",
+          "size": 12668,
+          "lmtime": 1677579780000,
+          "modified": false
+        },
+        "FAQ_Image_3.webp": {
+          "type": "-",
+          "size": 36270,
+          "lmtime": 1677579782000,
+          "modified": false
+        },
+        "FAQ_Image_4.webp": {
+          "type": "-",
+          "size": 14956,
+          "lmtime": 1677579782000,
+          "modified": false
+        },
+        "FAQ_Image_5.webp": {
+          "type": "-",
+          "size": 7264,
+          "lmtime": 1677579782000,
+          "modified": false
+        },
+        "FTLogo_Red.svg": {
+          "type": "-",
+          "size": 8947,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "FTLogo_White.svg": {
+          "type": "-",
+          "size": 9095,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "FT_Logo_New.svg": {
+          "type": "-",
+          "size": 2944,
+          "lmtime": 1680863408000,
+          "modified": false
+        },
+        "FT_Logo_R.svg": {
+          "type": "-",
+          "size": 3452,
+          "lmtime": 1679489709642,
+          "modified": false
+        },
+        "FeatureImage_Contact_Desktop.webp": {
+          "type": "-",
+          "size": 178840,
+          "lmtime": 1677569544000,
+          "modified": false
+        },
+        "FeatureImage_FAQ_Desktop.webp": {
+          "type": "-",
+          "size": 329342,
+          "lmtime": 1677569550000,
+          "modified": false
+        },
+        "FeatureImage_Home_Desktop.webp": {
+          "type": "-",
+          "size": 181674,
+          "lmtime": 1677569550000,
+          "modified": false
+        },
+        "FundingTurkey_BG_Blank_Concrete.webp": {
+          "type": "-",
+          "size": 20866,
+          "lmtime": 1677569550000,
+          "modified": false
+        },
+        "FundingTurkey_FeatureImage_Contact_Mobile.webp": {
+          "type": "-",
+          "size": 33534,
+          "lmtime": 1677578548000,
+          "modified": false
+        },
+        "FundingTurkey_FeatureImage_FAQ_Mobile.webp": {
+          "type": "-",
+          "size": 45866,
+          "lmtime": 1677578548000,
+          "modified": false
+        },
+        "FundingTurkey_FeatureImage_Mobile.webp": {
+          "type": "-",
+          "size": 30432,
+          "lmtime": 1677578548000,
+          "modified": false
+        },
+        "FundingTurkey_Footer_Icon.svg": {
+          "type": "-",
+          "size": 522,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "FundingTurkey_Funds_FeatureImage_short.jpg": {
+          "type": "-",
+          "size": 802125,
+          "lmtime": 1682341647257,
+          "modified": false
+        },
+        "FundingTurkey_Funds_FeatureImage_tall.jpg": {
+          "type": "-",
+          "size": 1822447,
+          "lmtime": 1681125636892,
+          "modified": false
+        },
+        "FundingTurkey_News_FeatureImage_short.jpg": {
+          "type": "-",
+          "size": 652426,
+          "lmtime": 1682341649126,
+          "modified": false
+        },
+        "FundingTurkey_News_FeatureImage_tall_2.jpg": {
+          "type": "-",
+          "size": 1954783,
+          "lmtime": 1681125630645,
+          "modified": false
+        },
+        "Home_Brutalism_Luxe.png": {
+          "type": "-",
+          "size": 755954,
+          "lmtime": 1677580083835,
+          "modified": false
+        },
+        "Icon_Address.svg": {
+          "type": "-",
+          "size": 1643,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "Icon_CapitalGains.svg": {
+          "type": "-",
+          "size": 2329,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "Icon_Citizenship.svg": {
+          "type": "-",
+          "size": 3140,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "Icon_Download.svg": {
+          "type": "-",
+          "size": 820,
+          "lmtime": 1677509724000,
+          "modified": false
+        },
+        "Icon_Email.svg": {
+          "type": "-",
+          "size": 1412,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "Icon_Expand.svg": {
+          "type": "-",
+          "size": 288,
+          "lmtime": 1677508321799,
+          "modified": false
+        },
+        "Icon_Expand_White.svg": {
+          "type": "-",
+          "size": 288,
+          "lmtime": 1682341649804,
+          "modified": false
+        },
+        "Icon_Expert.svg": {
+          "type": "-",
+          "size": 1251,
+          "lmtime": 1678350314000,
+          "modified": false
+        },
+        "Icon_HighReturns.svg": {
+          "type": "-",
+          "size": 1415,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "Icon_IncomeTax.svg": {
+          "type": "-",
+          "size": 1742,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "Icon_Minimize.svg": {
+          "type": "-",
+          "size": 707,
+          "lmtime": 1682341650468,
+          "modified": false
+        },
+        "Icon_Minimize_White.svg": {
+          "type": "-",
+          "size": 707,
+          "lmtime": 1682341651136,
+          "modified": false
+        },
+        "Icon_SPK.svg": {
+          "type": "-",
+          "size": 1560,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "Icon_WhatsApp.svg": {
+          "type": "-",
+          "size": 1860,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "Menu_Icon.svg": {
+          "type": "-",
+          "size": 367,
+          "lmtime": 1677509724000,
+          "modified": false
+        },
+        "Menu_Icon_Dark.svg": {
+          "type": "-",
+          "size": 367,
+          "lmtime": 1677509724000,
+          "modified": false
+        },
+        "Menu_Icon_Mobile.svg": {
+          "type": "-",
+          "size": 450,
+          "lmtime": 1674463780429,
+          "modified": false
+        },
+        "PT-VCF_FeatureImage.png": {
+          "type": "-",
+          "size": 385912,
+          "lmtime": 1682341652645,
+          "modified": false
+        },
+        "Perform_Bonus_Graph.svg": {
+          "type": "-",
+          "size": 48350,
+          "lmtime": 1679920607966,
+          "modified": false
+        },
+        "REIF-Private_FeatureImage.png": {
+          "type": "-",
+          "size": 574042,
+          "lmtime": 1682341655682,
+          "modified": false
+        },
+        "REIF_FeatureImage.png": {
+          "type": "-",
+          "size": 405997,
+          "lmtime": 1677579923914,
+          "modified": false
+        },
+        "REIF_PortfolioChart.png": {
+          "type": "-",
+          "size": 84167,
+          "lmtime": 1677579874867,
+          "modified": false
+        },
+        "Video_Rectangle_Grey.svg": {
+          "type": "-",
+          "size": 237,
+          "lmtime": 1677509724000,
+          "modified": false
+        },
+        "Video_Rectangle_Grey_With_Logo.svg": {
+          "type": "-",
+          "size": 2128,
+          "lmtime": 1677581818134,
+          "modified": false
+        },
+        "YouTubeLogo_Grey.svg": {
+          "type": "-",
+          "size": 1241,
+          "lmtime": 1677500657000,
+          "modified": false
+        },
+        "favicon-96x96.png": {
+          "type": "-",
+          "size": 9109,
+          "lmtime": 1677758528111,
+          "modified": false
+        },
+        "favicon.ico": {
+          "type": "-",
+          "size": 1150,
+          "lmtime": 1677747808000,
+          "modified": false
+        },
+        "green_close.png": {
+          "type": "-",
+          "size": 689,
+          "lmtime": 1684843432000,
+          "modified": false
+        },
+        "green_icon.png": {
+          "type": "-",
+          "size": 2030,
+          "lmtime": 1684843421000,
+          "modified": false
+        },
+        "red_icon.png": {
+          "type": "-",
+          "size": 2003,
+          "lmtime": 1684843319000,
+          "modified": false
+        },
+        "site_image.jpg": {
+          "type": "-",
+          "size": 652887,
+          "lmtime": 1684144043880,
+          "modified": false
+        },
+        "skewed_edge.svg": {
+          "type": "-",
+          "size": 959,
+          "lmtime": 1682341656351,
+          "modified": false
+        },
+        "skewed_top_edge.svg": {
+          "type": "-",
+          "size": 435,
+          "lmtime": 1682341657018,
+          "modified": false
+        },
+        "red_close.png": {
+          "type": "-",
+          "size": 698,
+          "lmtime": 1684843337000,
+          "modified": false
+        }
+      },
+      "index-empty.php": {
+        "type": "-",
+        "size": 0,
+        "lmtime": 0,
+        "modified": false
+      },
+      "index.php": {
+        "type": "-",
+        "size": 5397,
+        "lmtime": 1686910371296,
+        "modified": false
+      },
+      "js": {},
+      "locale.php": {
+        "type": "-",
+        "size": 50559,
+        "lmtime": 1687437014690,
+        "modified": false
+      },
+      "message_mdl.php": {
+        "type": "-",
+        "size": 863,
+        "lmtime": 1682341643264,
+        "modified": false
+      },
+      "send.php": {
+        "type": "-",
+        "size": 499,
+        "lmtime": 1682341644619,
+        "modified": false
+      },
+      "send_email.php": {
+        "type": "-",
+        "size": 2133,
+        "lmtime": 1686747564617,
+        "modified": false
+      },
+      "send_email2.php": {
+        "type": "-",
+        "size": 3962,
+        "lmtime": 1688568829289,
+        "modified": false
+      },
+      "vendor": {
+        "autoload.php": {
+          "type": "-",
+          "size": 427,
+          "lmtime": 1686910283454,
+          "modified": false
+        },
+        "composer": {
+          "ClassLoader.php": {
+            "type": "-",
+            "size": 16068,
+            "lmtime": 1686910283455,
+            "modified": false
+          },
+          "InstalledVersions.php": {
+            "type": "-",
+            "size": 15004,
+            "lmtime": 1686910283066,
+            "modified": false
+          },
+          "LICENSE": {
+            "type": "-",
+            "size": 1070,
+            "lmtime": 1686910283457,
+            "modified": false
+          },
+          "autoload_classmap.php": {
+            "type": "-",
+            "size": 222,
+            "lmtime": 1686910283428,
+            "modified": false
+          },
+          "autoload_namespaces.php": {
+            "type": "-",
+            "size": 139,
+            "lmtime": 1686910283424,
+            "modified": false
+          },
+          "autoload_psr4.php": {
+            "type": "-",
+            "size": 213,
+            "lmtime": 1686910283426,
+            "modified": false
+          },
+          "autoload_real.php": {
+            "type": "-",
+            "size": 1137,
+            "lmtime": 1686910283455,
+            "modified": false
+          },
+          "autoload_static.php": {
+            "type": "-",
+            "size": 1093,
+            "lmtime": 1686910283453,
+            "modified": false
+          },
+          "installed.json": {
+            "type": "-",
+            "size": 3679,
+            "lmtime": 1686910283064,
+            "modified": false
+          },
+          "installed.php": {
+            "type": "-",
+            "size": 1114,
+            "lmtime": 1686910283065,
+            "modified": false
+          },
+          "platform_check.php": {
+            "type": "-",
+            "size": 925,
+            "lmtime": 1686910283454,
+            "modified": false
+          }
+        },
+        "phpmailer": {
+          "phpmailer": {
+            "COMMITMENT": {
+              "type": "-",
+              "size": 2092,
+              "lmtime": 1678074202000,
+              "modified": false
+            },
+            "LICENSE": {
+              "type": "-",
+              "size": 26529,
+              "lmtime": 1678074202000,
+              "modified": false
+            },
+            "README.md": {
+              "type": "-",
+              "size": 16429,
+              "lmtime": 1678074202000,
+              "modified": false
+            },
+            "SECURITY.md": {
+              "type": "-",
+              "size": 7584,
+              "lmtime": 1678074202000,
+              "modified": false
+            },
+            "composer.json": {
+              "type": "-",
+              "size": 2675,
+              "lmtime": 1678074202000,
+              "modified": false
+            },
+            "get_oauth_token.php": {
+              "type": "-",
+              "size": 6226,
+              "lmtime": 1678074202000,
+              "modified": false
+            },
+            "language": {
+              "phpmailer.lang-af.php": {
+                "type": "-",
+                "size": 1584,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-ar.php": {
+                "type": "-",
+                "size": 2024,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-az.php": {
+                "type": "-",
+                "size": 1749,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-ba.php": {
+                "type": "-",
+                "size": 1745,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-be.php": {
+                "type": "-",
+                "size": 2178,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-bg.php": {
+                "type": "-",
+                "size": 2196,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-ca.php": {
+                "type": "-",
+                "size": 1730,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-cs.php": {
+                "type": "-",
+                "size": 1798,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-da.php": {
+                "type": "-",
+                "size": 2084,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-de.php": {
+                "type": "-",
+                "size": 1886,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-el.php": {
+                "type": "-",
+                "size": 3307,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-eo.php": {
+                "type": "-",
+                "size": 1665,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-es.php": {
+                "type": "-",
+                "size": 2047,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-et.php": {
+                "type": "-",
+                "size": 1744,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-fa.php": {
+                "type": "-",
+                "size": 2079,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-fi.php": {
+                "type": "-",
+                "size": 1731,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-fo.php": {
+                "type": "-",
+                "size": 1637,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-fr.php": {
+                "type": "-",
+                "size": 2852,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-gl.php": {
+                "type": "-",
+                "size": 1742,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-he.php": {
+                "type": "-",
+                "size": 1812,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-hi.php": {
+                "type": "-",
+                "size": 3768,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-hr.php": {
+                "type": "-",
+                "size": 1754,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-hu.php": {
+                "type": "-",
+                "size": 1717,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-hy.php": {
+                "type": "-",
+                "size": 2185,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-id.php": {
+                "type": "-",
+                "size": 1997,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-it.php": {
+                "type": "-",
+                "size": 1819,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-ja.php": {
+                "type": "-",
+                "size": 2029,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-ka.php": {
+                "type": "-",
+                "size": 2884,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-ko.php": {
+                "type": "-",
+                "size": 1771,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-lt.php": {
+                "type": "-",
+                "size": 1627,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-lv.php": {
+                "type": "-",
+                "size": 1643,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-mg.php": {
+                "type": "-",
+                "size": 1782,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-mn.php": {
+                "type": "-",
+                "size": 2186,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-ms.php": {
+                "type": "-",
+                "size": 1734,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-nb.php": {
+                "type": "-",
+                "size": 1555,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-nl.php": {
+                "type": "-",
+                "size": 2365,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-pl.php": {
+                "type": "-",
+                "size": 1894,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-pt.php": {
+                "type": "-",
+                "size": 1889,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-pt_br.php": {
+                "type": "-",
+                "size": 2719,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-ro.php": {
+                "type": "-",
+                "size": 2448,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-ru.php": {
+                "type": "-",
+                "size": 2247,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-sk.php": {
+                "type": "-",
+                "size": 1909,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-sl.php": {
+                "type": "-",
+                "size": 2577,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-sr.php": {
+                "type": "-",
+                "size": 2301,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-sr_latn.php": {
+                "type": "-",
+                "size": 1814,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-sv.php": {
+                "type": "-",
+                "size": 1610,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-tl.php": {
+                "type": "-",
+                "size": 1721,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-tr.php": {
+                "type": "-",
+                "size": 1772,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-uk.php": {
+                "type": "-",
+                "size": 2282,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-vi.php": {
+                "type": "-",
+                "size": 1793,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-zh.php": {
+                "type": "-",
+                "size": 1669,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "phpmailer.lang-zh_cn.php": {
+                "type": "-",
+                "size": 1656,
+                "lmtime": 1678074202000,
+                "modified": false
+              }
+            },
+            "src": {
+              "DSNConfigurator.php": {
+                "type": "-",
+                "size": 6919,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "Exception.php": {
+                "type": "-",
+                "size": 1240,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "OAuth.php": {
+                "type": "-",
+                "size": 3774,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "OAuthTokenProvider.php": {
+                "type": "-",
+                "size": 1522,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "PHPMailer.php": {
+                "type": "-",
+                "size": 179441,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "POP3.php": {
+                "type": "-",
+                "size": 12259,
+                "lmtime": 1678074202000,
+                "modified": false
+              },
+              "SMTP.php": {
+                "type": "-",
+                "size": 47594,
+                "lmtime": 1678074202000,
+                "modified": false
+              }
+            },
+            "VERSION": {
+              "type": "-",
+              "size": 5,
+              "lmtime": 1678074202000,
+              "modified": false
+            }
+          }
+        }
+      }
+    }
+  },
+  "$version": 1
+}

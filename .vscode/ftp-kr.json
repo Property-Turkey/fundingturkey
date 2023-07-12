@@ -1,0 +1,16 @@
+{
+    "host": "fundingturkey.com",
+    "username": "fundingturkey",
+    "password": "--Password--", 
+    "remotePath": "public_html/",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": false,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
