@@ -664,6 +664,23 @@ p {
     font-size: 18px;
     font-weight: bold;
 }
+.form_1 label{
+    width: 100%;
+    text-align: left;
+    margin: 0;
+}
+.form_1 label small{
+    font-size: 10px;
+    font-style: italic;
+}
+.form_1 input[type=checkbox]{
+    width: auto;
+    margin-top: 0;
+}
+.h22px{
+    height: 16px;
+    margin-top: -8px;
+}
 .form_1 input, .form_1 textarea, .form_1 select{
     padding: 7px 30px;
     margin-top: 24px;
