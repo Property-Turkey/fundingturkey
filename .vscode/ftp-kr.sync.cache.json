@@ -1,0 +1,524 @@
+{
+  "ftp://fundingturkey.com@fundingturkey": {
+    "public_html": {
+      ".htaccess": {
+        "type": "-",
+        "size": 3300,
+        "lmtime": 0,
+        "modified": false
+      },
+      ".htaccess-redirect": {
+        "type": "-",
+        "size": 288,
+        "lmtime": 0,
+        "modified": false
+      },
+      ".well-known": {},
+      "Elements": {},
+      "Pages": {
+        "aboutus.php": {
+          "type": "-",
+          "size": 7102,
+          "lmtime": 0,
+          "modified": false
+        },
+        "contactus.php": {
+          "type": "-",
+          "size": 1805,
+          "lmtime": 1689325781848,
+          "modified": false
+        },
+        "faq.php": {
+          "type": "-",
+          "size": 11550,
+          "lmtime": 0,
+          "modified": false
+        },
+        "funds.php": {
+          "type": "-",
+          "size": 11019,
+          "lmtime": 0,
+          "modified": false
+        },
+        "home.php": {
+          "type": "-",
+          "size": 4255,
+          "lmtime": 0,
+          "modified": false
+        },
+        "news.php": {
+          "type": "-",
+          "size": 1290,
+          "lmtime": 0,
+          "modified": false
+        }
+      },
+      "cgi-bin": {},
+      "configs.php": {
+        "type": "-",
+        "size": 4722,
+        "lmtime": 0,
+        "modified": false
+      },
+      "css": {
+        "bootstrap.min.css": {
+          "type": "-",
+          "size": 144877,
+          "lmtime": 0,
+          "modified": false
+        },
+        "style.css": {
+          "type": "-",
+          "size": 18706,
+          "lmtime": 1689167129987,
+          "modified": false
+        }
+      },
+      "error_log": {
+        "type": "-",
+        "size": 331768,
+        "lmtime": 0,
+        "modified": false
+      },
+      "file": {},
+      "font": {},
+      "form_mdl.php": {
+        "type": "-",
+        "size": 1949,
+        "lmtime": 0,
+        "modified": false
+      },
+      "img": {
+        "BG_Concrete_texture.webp": {
+          "type": "-",
+          "size": 1002,
+          "lmtime": 1677569542000,
+          "modified": false
+        },
+        "Download_Icon.svg": {
+          "type": "-",
+          "size": 820,
+          "lmtime": 1680871786000,
+          "modified": false
+        },
+        "FAQ_Feat_REIF-VCFDifferences.webp": {
+          "type": "-",
+          "size": 139256,
+          "lmtime": 1677569934000,
+          "modified": false
+        },
+        "FAQ_Feat_Tax.webp": {
+          "type": "-",
+          "size": 33260,
+          "lmtime": 1677569936000,
+          "modified": false
+        },
+        "FAQ_Feat_WhatisREIF.webp": {
+          "type": "-",
+          "size": 17692,
+          "lmtime": 1677569936000,
+          "modified": false
+        },
+        "FAQ_Feat_WhatisVCIF.webp": {
+          "type": "-",
+          "size": 31758,
+          "lmtime": 1677569936000,
+          "modified": false
+        },
+        "FAQ_Feat_WhoCanCreate.webp": {
+          "type": "-",
+          "size": 50426,
+          "lmtime": 1677569936000,
+          "modified": false
+        },
+        "FAQ_Image_1.webp": {
+          "type": "-",
+          "size": 8332,
+          "lmtime": 1677579780000,
+          "modified": false
+        },
+        "FAQ_Image_2.webp": {
+          "type": "-",
+          "size": 12668,
+          "lmtime": 1677579780000,
+          "modified": false
+        },
+        "FAQ_Image_3.webp": {
+          "type": "-",
+          "size": 36270,
+          "lmtime": 1677579782000,
+          "modified": false
+        },
+        "FAQ_Image_4.webp": {
+          "type": "-",
+          "size": 14956,
+          "lmtime": 1677579782000,
+          "modified": false
+        },
+        "FAQ_Image_5.webp": {
+          "type": "-",
+          "size": 7264,
+          "lmtime": 1677579782000,
+          "modified": false
+        },
+        "FTLogo_Red.svg": {
+          "type": "-",
+          "size": 8947,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "FTLogo_White.svg": {
+          "type": "-",
+          "size": 9095,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "FT_Logo_New.svg": {
+          "type": "-",
+          "size": 2944,
+          "lmtime": 1680863408000,
+          "modified": false
+        },
+        "FT_Logo_R.svg": {
+          "type": "-",
+          "size": 3452,
+          "lmtime": 1679489709642,
+          "modified": false
+        },
+        "FeatureImage_Contact_Desktop.webp": {
+          "type": "-",
+          "size": 178840,
+          "lmtime": 1677569544000,
+          "modified": false
+        },
+        "FeatureImage_FAQ_Desktop.webp": {
+          "type": "-",
+          "size": 329342,
+          "lmtime": 1677569550000,
+          "modified": false
+        },
+        "FeatureImage_Home_Desktop.webp": {
+          "type": "-",
+          "size": 181674,
+          "lmtime": 1677569550000,
+          "modified": false
+        },
+        "FundingTurkey_BG_Blank_Concrete.webp": {
+          "type": "-",
+          "size": 20866,
+          "lmtime": 1677569550000,
+          "modified": false
+        },
+        "FundingTurkey_FeatureImage_Contact_Mobile.webp": {
+          "type": "-",
+          "size": 33534,
+          "lmtime": 1677578548000,
+          "modified": false
+        },
+        "FundingTurkey_FeatureImage_FAQ_Mobile.webp": {
+          "type": "-",
+          "size": 45866,
+          "lmtime": 1677578548000,
+          "modified": false
+        },
+        "FundingTurkey_FeatureImage_Mobile.webp": {
+          "type": "-",
+          "size": 30432,
+          "lmtime": 1677578548000,
+          "modified": false
+        },
+        "FundingTurkey_Footer_Icon.svg": {
+          "type": "-",
+          "size": 522,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "FundingTurkey_Funds_FeatureImage_short.jpg": {
+          "type": "-",
+          "size": 802125,
+          "lmtime": 1682341647257,
+          "modified": false
+        },
+        "FundingTurkey_Funds_FeatureImage_tall.jpg": {
+          "type": "-",
+          "size": 1822447,
+          "lmtime": 1681125636892,
+          "modified": false
+        },
+        "FundingTurkey_News_FeatureImage_short.jpg": {
+          "type": "-",
+          "size": 652426,
+          "lmtime": 1682341649126,
+          "modified": false
+        },
+        "FundingTurkey_News_FeatureImage_tall_2.jpg": {
+          "type": "-",
+          "size": 1954783,
+          "lmtime": 1681125630645,
+          "modified": false
+        },
+        "Home_Brutalism_Luxe.png": {
+          "type": "-",
+          "size": 755954,
+          "lmtime": 1677580083835,
+          "modified": false
+        },
+        "Icon_Address.svg": {
+          "type": "-",
+          "size": 1643,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "Icon_CapitalGains.svg": {
+          "type": "-",
+          "size": 2329,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "Icon_Citizenship.svg": {
+          "type": "-",
+          "size": 3140,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "Icon_Download.svg": {
+          "type": "-",
+          "size": 820,
+          "lmtime": 1677509724000,
+          "modified": false
+        },
+        "Icon_Email.svg": {
+          "type": "-",
+          "size": 1412,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "Icon_Expand.svg": {
+          "type": "-",
+          "size": 288,
+          "lmtime": 1677508321799,
+          "modified": false
+        },
+        "Icon_Expand_White.svg": {
+          "type": "-",
+          "size": 288,
+          "lmtime": 1682341649804,
+          "modified": false
+        },
+        "Icon_Expert.svg": {
+          "type": "-",
+          "size": 1251,
+          "lmtime": 1678350314000,
+          "modified": false
+        },
+        "Icon_HighReturns.svg": {
+          "type": "-",
+          "size": 1415,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "Icon_IncomeTax.svg": {
+          "type": "-",
+          "size": 1742,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "Icon_Link_black.svg": {
+          "type": "-",
+          "size": 1110,
+          "lmtime": 1689167129991,
+          "modified": false
+        },
+        "Icon_Minimize.svg": {
+          "type": "-",
+          "size": 707,
+          "lmtime": 1682341650468,
+          "modified": false
+        },
+        "Icon_Minimize_White.svg": {
+          "type": "-",
+          "size": 707,
+          "lmtime": 1682341651136,
+          "modified": false
+        },
+        "Icon_SPK.svg": {
+          "type": "-",
+          "size": 1560,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "Icon_WhatsApp.svg": {
+          "type": "-",
+          "size": 1860,
+          "lmtime": 1677063504000,
+          "modified": false
+        },
+        "Menu_Icon.svg": {
+          "type": "-",
+          "size": 367,
+          "lmtime": 1677509724000,
+          "modified": false
+        },
+        "Menu_Icon_Dark.svg": {
+          "type": "-",
+          "size": 367,
+          "lmtime": 1677509724000,
+          "modified": false
+        },
+        "Menu_Icon_Mobile.svg": {
+          "type": "-",
+          "size": 450,
+          "lmtime": 1674463780429,
+          "modified": false
+        },
+        "PT-VCF_FeatureImage.png": {
+          "type": "-",
+          "size": 385912,
+          "lmtime": 1682341652645,
+          "modified": false
+        },
+        "Perform_Bonus_Graph.svg": {
+          "type": "-",
+          "size": 48350,
+          "lmtime": 1679920607966,
+          "modified": false
+        },
+        "REIF-Private_FeatureImage.png": {
+          "type": "-",
+          "size": 574042,
+          "lmtime": 1682341655682,
+          "modified": false
+        },
+        "REIF_FeatureImage.png": {
+          "type": "-",
+          "size": 405997,
+          "lmtime": 1677579923914,
+          "modified": false
+        },
+        "REIF_PortfolioChart.png": {
+          "type": "-",
+          "size": 84167,
+          "lmtime": 1677579874867,
+          "modified": false
+        },
+        "Video_Rectangle_Grey.svg": {
+          "type": "-",
+          "size": 237,
+          "lmtime": 1677509724000,
+          "modified": false
+        },
+        "Video_Rectangle_Grey_With_Logo.svg": {
+          "type": "-",
+          "size": 2128,
+          "lmtime": 1677581818134,
+          "modified": false
+        },
+        "YouTubeLogo_Grey.svg": {
+          "type": "-",
+          "size": 1241,
+          "lmtime": 1677500657000,
+          "modified": false
+        },
+        "favicon-96x96.png": {
+          "type": "-",
+          "size": 9109,
+          "lmtime": 1677758528111,
+          "modified": false
+        },
+        "favicon.ico": {
+          "type": "-",
+          "size": 1150,
+          "lmtime": 1677747808000,
+          "modified": false
+        },
+        "green_close.png": {
+          "type": "-",
+          "size": 689,
+          "lmtime": 1684843432000,
+          "modified": false
+        },
+        "green_icon.png": {
+          "type": "-",
+          "size": 2030,
+          "lmtime": 1684843421000,
+          "modified": false
+        },
+        "red_close.png": {
+          "type": "-",
+          "size": 698,
+          "lmtime": 1684843337000,
+          "modified": false
+        },
+        "red_icon.png": {
+          "type": "-",
+          "size": 2003,
+          "lmtime": 1684843319000,
+          "modified": false
+        },
+        "site_image.jpg": {
+          "type": "-",
+          "size": 652887,
+          "lmtime": 1684144043880,
+          "modified": false
+        },
+        "skewed_edge.svg": {
+          "type": "-",
+          "size": 959,
+          "lmtime": 1682341656351,
+          "modified": false
+        },
+        "skewed_top_edge.svg": {
+          "type": "-",
+          "size": 435,
+          "lmtime": 1682341657018,
+          "modified": false
+        }
+      },
+      "index-empty.php": {
+        "type": "-",
+        "size": 0,
+        "lmtime": 0,
+        "modified": false
+      },
+      "index.php": {
+        "type": "-",
+        "size": 5578,
+        "lmtime": 1689325871184,
+        "modified": false
+      },
+      "js": {},
+      "locale.php": {
+        "type": "-",
+        "size": 50756,
+        "lmtime": 1689323700312,
+        "modified": false
+      },
+      "message_mdl.php": {
+        "type": "-",
+        "size": 863,
+        "lmtime": 0,
+        "modified": false
+      },
+      "send.php": {
+        "type": "-",
+        "size": 499,
+        "lmtime": 0,
+        "modified": false
+      },
+      "send_email.php": {
+        "type": "-",
+        "size": 2133,
+        "lmtime": 0,
+        "modified": false
+      },
+      "send_email2.php": {
+        "type": "-",
+        "size": 4028,
+        "lmtime": 1689326708467,
+        "modified": false
+      },
+      "vendor": {}
+    }
+  },
+  "$version": 1
+}

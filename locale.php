@@ -10,6 +10,10 @@
             "site_description" => "Fund Managers for Turkish Real Estate and Venture Capital Markets",
             "site_domain" => "https://fundingturkey.com/",
 
+            "kvkk" => "I've read and accept GDPR conditions",
+            "digital_sign" => "I agree to receive elctronic message",
+            "please_fill_the_field" => "Please file this field",
+
             "who_are_we" => "WHO ARE WE?",
             "who_are_we_p" => "
                 <p>Funding Turkey is the latest addition to the Property Turkey EcoSystem, our one-stop Turkish real 

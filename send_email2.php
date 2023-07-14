@@ -20,13 +20,16 @@ require_once('configs.php');
 $error_msg = '';
 $email_body = '';
 $email_message = '';
-$required_fields = ['name', 'email', 'phone'];
+$required_fields = ['name', 'email', 'phone', 'kvkk', 'digital_sign'];
 
 $srvr = strpos($_SERVER['SERVER_NAME'], 'fundingturkey.com') === false ? 'fundingturkey.com' : 'fundingturkey.com';
 
 foreach($_POST as $key => $value) {
     if(in_array($key, $required_fields)){
-        empty($value) ? $error_msg=__('please_fill_the_field')." <b>". __( $key ) .'</b>' : '';
+        if(empty($value)){
+            $error_msg=__('please_fill_the_field')." <b>". __( $key ) .'</b>';
+            break;
+        }
     }
     $email_message .= '
           <tr>

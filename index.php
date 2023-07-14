@@ -105,6 +105,8 @@
                             phone:      $(form + ' #phone').val(),
                             email:      $(form + ' #email').val().toLowerCase(),
                             message:    $(form + ' #message').val(),
+                            kvkk:       $(form + ' #kvkk').prop('checked') ? 1 : 0,
+                            digital_sign:    $(form + ' #digital_sign').prop('checked') ? 1 : 0,
                         },
                     })
                     .done(function(res) {
